@@ -64,8 +64,8 @@ public class SampleController {
 		List<Map<String, String>> list = new ArrayList<>();
 		Map<String, String> map1 = new HashMap<String, String>();
 		Map<String, String> map2 = new HashMap<String, String>();
-		map1.put("map1-1", "registration");
-		map1.put("map1-2", "value2");
+		map1.put("map1-1", registration.getHoge1());
+		map1.put("map1-2", registration.getHoge2());
 		map1.put("map1-3", "value3");
 		map2.put("map2-1", "value4");
 		map2.put("map2-2", "value5");
