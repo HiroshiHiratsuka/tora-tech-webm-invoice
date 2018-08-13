@@ -7,3 +7,5 @@
 [core]
 	autocrlf = true
 	excludesfile = C:\\Users\\systena\\Documents\\gitignore_global.txt
+[http]
+	proxy = http://hiratsukah:Integra05!@proxy-y.systena.local:8080

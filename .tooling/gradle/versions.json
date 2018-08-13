@@ -1,6 +1,6 @@
 [ {
-  "version" : "4.9-20180621235935+0000",
-  "buildTime" : "20180621235935+0000",
+  "version" : "4.11-20180811235908+0000",
+  "buildTime" : "20180811235908+0000",
   "current" : false,
   "snapshot" : true,
   "nightly" : true,
@@ -8,12 +8,60 @@
   "rcFor" : "",
   "milestoneFor" : "",
   "broken" : false,
-  "downloadUrl" : "https://services.gradle.org/distributions-snapshots/gradle-4.9-20180621235935+0000-bin.zip",
-  "checksumUrl" : "https://services.gradle.org/distributions-snapshots/gradle-4.9-20180621235935+0000-bin.zip.sha256"
+  "downloadUrl" : "https://services.gradle.org/distributions-snapshots/gradle-4.11-20180811235908+0000-bin.zip",
+  "checksumUrl" : "https://services.gradle.org/distributions-snapshots/gradle-4.11-20180811235908+0000-bin.zip.sha256"
+}, {
+  "version" : "4.10-rc-1",
+  "buildTime" : "20180809061937+0000",
+  "current" : false,
+  "snapshot" : false,
+  "nightly" : false,
+  "activeRc" : true,
+  "rcFor" : "4.10",
+  "milestoneFor" : "",
+  "broken" : false,
+  "downloadUrl" : "https://services.gradle.org/distributions/gradle-4.10-rc-1-bin.zip",
+  "checksumUrl" : "https://services.gradle.org/distributions/gradle-4.10-rc-1-bin.zip.sha256"
+}, {
+  "version" : "4.9",
+  "buildTime" : "20180716081403+0000",
+  "current" : true,
+  "snapshot" : false,
+  "nightly" : false,
+  "activeRc" : false,
+  "rcFor" : "",
+  "milestoneFor" : "",
+  "broken" : false,
+  "downloadUrl" : "https://services.gradle.org/distributions/gradle-4.9-bin.zip",
+  "checksumUrl" : "https://services.gradle.org/distributions/gradle-4.9-bin.zip.sha256"
+}, {
+  "version" : "4.9-rc-2",
+  "buildTime" : "20180711004640+0000",
+  "current" : false,
+  "snapshot" : false,
+  "nightly" : false,
+  "activeRc" : false,
+  "rcFor" : "4.9",
+  "milestoneFor" : "",
+  "broken" : false,
+  "downloadUrl" : "https://services.gradle.org/distributions/gradle-4.9-rc-2-bin.zip",
+  "checksumUrl" : "https://services.gradle.org/distributions/gradle-4.9-rc-2-bin.zip.sha256"
+}, {
+  "version" : "4.9-rc-1",
+  "buildTime" : "20180703131446+0000",
+  "current" : false,
+  "snapshot" : false,
+  "nightly" : false,
+  "activeRc" : false,
+  "rcFor" : "4.9",
+  "milestoneFor" : "",
+  "broken" : false,
+  "downloadUrl" : "https://services.gradle.org/distributions/gradle-4.9-rc-1-bin.zip",
+  "checksumUrl" : "https://services.gradle.org/distributions/gradle-4.9-rc-1-bin.zip.sha256"
 }, {
   "version" : "4.8.1",
   "buildTime" : "20180621075306+0000",
-  "current" : true,
+  "current" : false,
   "snapshot" : false,
   "nightly" : false,
   "activeRc" : false,

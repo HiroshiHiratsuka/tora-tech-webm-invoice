@@ -2,14 +2,16 @@ package application.result;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 import lombok.ToString;
 
 @Data
 @AllArgsConstructor
+@NoArgsConstructor
 @ToString
 public class InvoiceResult {
 
-    /** The invoice no. */
+	/** The invoice no. */
     private String invoiceNo;
 
     /** The client name. */
