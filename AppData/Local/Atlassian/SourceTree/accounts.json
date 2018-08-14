@@ -1,0 +1,36 @@
+[
+  {
+    "$id": "5",
+    "$type": "SourceTree.Api.Host.Identity.Model.IdentityAccount, SourceTree.Api.Host.Identity",
+    "IsDefault": false,
+    "Authenticate": true,
+    "HostInstance": {
+      "$id": "6",
+      "$type": "SourceTree.Host.Atlassianaccount.AtlassianAccountInstance, SourceTree.Host.AtlassianAccount",
+      "Host": {
+        "$id": "7",
+        "$type": "SourceTree.Host.Atlassianaccount.AtlassianAccountHost, SourceTree.Host.AtlassianAccount",
+        "Id": "atlassian account"
+      },
+      "BaseUrl": "https://id.atlassian.com/"
+    },
+    "Credentials": {
+      "$id": "8",
+      "$type": "SourceTree.Api.Account.Basic.BasicAuthCredentials, SourceTree.Api.Account.Basic",
+      "Username": "hiratsukah@systena.co.jp",
+      "Email": "hiratsukah@systena.co.jp",
+      "AvatarURL": null,
+      "AuthenticationScheme": {
+        "$type": "SourceTree.Api.Account.Basic.BasicAuthAuthenticationScheme, SourceTree.Api.Account.Basic",
+        "Value": "ユーザー名/パスワード",
+        "Name": "Basic",
+        "Description": "パスワード",
+        "HeaderValuePrefix": "Basic",
+        "UsernameIsRequired": true
+      },
+      "Id": "hiratsukah@systena.co.jp",
+      "EmailHash": "$2b$11$wgr1TJNVKwiK/dQBd3HKm.uyCuMJkGpZeJl4vc9DIoCSjNPNRe89q",
+      "DisplayName": null
+    }
+  }
+]
